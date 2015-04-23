@@ -6,4 +6,4 @@ press any key to toggle blend mode
 
 [[[[using node and websockets]]]]
 
-![alt preview](https://raw.github.com/ojack/ghost-in-the-shell/blob/master/screenshot.png)
+![alt preview](https://raw.githubusercontent.com/ojack/ghost-in-the-shell/master/screenshot.png)
