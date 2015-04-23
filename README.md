@@ -1,6 +1,6 @@
 # ghost-in-the-shell
 
-the camera feed of everyone accessing the page, blended together.
+the camera feeds of everyone accessing the page, blended together.
 
 press any key to toggle blend mode
 
