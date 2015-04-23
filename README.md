@@ -1,5 +1,7 @@
 # ghost-in-the-shell
 
-The faces of every person looking at the page, blended together.
+the camera feed of everyone accessing the page, blended together.
 
-[[[[created with node and websockets]]]]
+press any key to toggle blend mode
+
+[[[[using node and websockets]]]]
